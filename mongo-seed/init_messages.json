@@ -1,0 +1,17 @@
+[
+    {
+        "id": "msg1", "account_id": "a2",
+        "inbox": true, "spam": false, "important": true, "drafts": false, "subject": "Test error 101",
+        "from" : [{"name" : "Google", "email" : "no-reply@accounts.google.com"}]
+    },
+    {
+        "id": "msg2", "account_id": "a2",
+        "inbox": true, "spam": false, "important": true, "drafts": false, "subject": "Test error 102",
+        "from" : [{"name" : "Google", "email" : "no-reply@accounts.google.com"}]
+    },
+    {
+        "id": "msg3", "account_id": "a1",
+        "inbox": true, "spam": false, "important": true, "drafts": false, "subject": "Test error 103",
+        "from" : [{"name" : "Google", "email" : "no-reply@accounts.google.com"}]
+    }
+]
